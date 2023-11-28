@@ -1,4 +1,4 @@
-package main
+package leafhash
 
 import (
 	"crypto/sha512"
